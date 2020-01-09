@@ -31,6 +31,9 @@ dependencies:
 - name: pleased-whale
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: pro-reptile
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: skilled-ape
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
