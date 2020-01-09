@@ -19,6 +19,9 @@ dependencies:
 - name: modest-sponge
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: more-goldfish
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: optimum-bluebird
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
