@@ -5,6 +5,9 @@ dependencies:
 - name: clever-squid
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: cool-meerkat
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
