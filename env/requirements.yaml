@@ -34,6 +34,9 @@ dependencies:
 - name: pleased-whale
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: present-labrador
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: pro-reptile
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
