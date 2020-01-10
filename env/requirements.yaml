@@ -25,6 +25,9 @@ dependencies:
 - name: joint-calf
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: lenient-coyote
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: logical-duckling
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
