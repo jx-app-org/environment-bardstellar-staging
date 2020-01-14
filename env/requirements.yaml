@@ -55,6 +55,9 @@ dependencies:
 - name: useful-stallion
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: valid-anteater
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: welcome-goldfish
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
