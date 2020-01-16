@@ -8,14 +8,17 @@ dependencies:
 - name: cool-meerkat
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: crucial-skunk
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: curious-halibut
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- alias: expose
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.114
-- alias: cleanup
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.114
