@@ -31,6 +31,9 @@ dependencies:
 - name: modest-sponge
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: moral-jaybird
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: moved-mastiff
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
