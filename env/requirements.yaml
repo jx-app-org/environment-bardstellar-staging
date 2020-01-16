@@ -22,6 +22,9 @@ dependencies:
 - name: fancy-moose
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: glad-termite
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: joint-calf
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
