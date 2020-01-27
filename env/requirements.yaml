@@ -1,16 +1,4 @@
 dependencies:
-- name: clever-mammoth
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: clever-squid
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: cool-meerkat
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: curious-halibut
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
@@ -19,42 +7,3 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.114
-- name: fancy-moose
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: joint-calf
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: logical-duckling
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: modest-sponge
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: moved-mastiff
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: normal-wombat
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: optimum-bluebird
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: pleased-whale
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: present-labrador
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: pro-reptile
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: skilled-ape
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: useful-stallion
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: welcome-goldfish
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
